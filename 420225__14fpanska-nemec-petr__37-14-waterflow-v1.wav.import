@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/420225__14fpanska-nemec-petr__37-14-waterflow-v1.wav-8508dbeef930e6254f97f0d6a240c68e.sample"
+
+[deps]
+
+source_file="res://420225__14fpanska-nemec-petr__37-14-waterflow-v1.wav"
+dest_files=[ "res://.import/420225__14fpanska-nemec-petr__37-14-waterflow-v1.wav-8508dbeef930e6254f97f0d6a240c68e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
